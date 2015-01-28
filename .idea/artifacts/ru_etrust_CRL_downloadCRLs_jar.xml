@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ru.etrust.CRL.downloadCRLs:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ru_etrust_CRL_downloadCRLs_jar</output-path>
+    <root id="archive" name="ru.etrust.CRL.downloadCRLs.jar">
+      <element id="module-output" name="downloadCRLs" />
+      <element id="library" level="application" name="commons-io-2.4" />
+    </root>
+  </artifact>
+</component>
